@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 👩 Just a girl learning about Deep Learning.
+- 💻 Currently using DL for image data.
+
 
 <!--
 **andkarma/andkarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
